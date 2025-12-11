@@ -1,13 +1,13 @@
-**QR Code Generator Web App (Streamlit)**
---A simple and open-source web application built with Python, Streamlit, and qrcode library.'
-'Users can input any URL or text and instantly generate a downloadable QR Code.'
-🚀 Features
-    Generate QR Codes from any URL or text
-    Live QR Code preview
-    Download the QR Code as a PNG image
-    Fully web-based (no installation required for users)
-    Lightweight and fast
-    Open-source
+**#QR Code Generator Web App (Streamlit)**
+-- A simple and open-source web application built with Python, Streamlit, and qrcode library.
+-- Users can input any URL or text and instantly generate a downloadable QR Code.
+-- 🚀 Features
+    -Generate QR Codes from any URL or text
+    -Live QR Code preview
+    -Download the QR Code as a PNG image
+    -Fully web-based (no installation required for users)
+    -Lightweight and fast
+    -Open-source
 🛠️ Technologies Used
 Python 3
 Streamlit
